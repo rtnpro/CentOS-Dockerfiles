@@ -1,0 +1,6 @@
+- project:
+    name: centos-httpd
+    image_name: centos/httpd
+    image_version: latest
+    centos_arch: x86_64
+    centos_ver: 7
